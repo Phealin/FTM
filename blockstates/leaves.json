@@ -1,0 +1,15 @@
+{
+    "variants":
+    {
+        "check_decay=true,decayable=true,variant=violium": { "model": "ftm:leaves_violium" },
+        "check_decay=true,decayable=false,variant=violium": { "model": "ftm:leaves_violium" },
+        "check_decay=false,decayable=true,variant=violium": { "model": "ftm:leaves_violium" },
+        "check_decay=false,decayable=false,variant=violium": { "model": "ftm:leaves_violium" },
+        
+        "check_decay=true,decayable=true,variant=purporium": { "model": "ftm:leaves_purporium" },
+        "check_decay=true,decayable=false,variant=purporium": { "model": "ftm:leaves_purporium" },
+        "check_decay=false,decayable=true,variant=purporium": { "model": "ftm:leaves_purporium" },
+        "check_decay=false,decayable=false,variant=purporium": { "model": "ftm:leaves_purporium" }
+    }
+    
+}

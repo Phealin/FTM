@@ -1,0 +1,76 @@
+//Tabs
+itemGroup.firsttab=First Tab
+
+//Blocks
+--Violium
+tile.ore_overworld_violium.name=Violium Ore
+tile.ore_end_violium.name=Violium End Ore
+tile.ore_nether_violium.name=Violium Nether Ore
+tile.block_violium.name=Violium Block
+
+--Amburius
+tile.log_violium.name=Amburius Log
+tile.planks_violium.name=Amburius Planks
+tile.leaves_violium.name=Amburius Leaves
+tile.sapling_violium.name=Amburius Sapling
+
+--Purporium
+tile.ore_overworld_purporium.name=Purporium Ore
+tile.ore_end_purporium.name=Purporium End Ore
+tile.ore_nether_purporium.name=Purporium Nether Ore
+tile.block_purporium.name=Purporium Block
+
+--Citirius
+tile.log_purporium.name=Citirius Log
+tile.planks_purporium.name=Citirius Planks
+tile.leaves_purporium.name=Citirius Leaves
+tile.sapling_purporium.name=Citirius Sapling
+tile.citirius.name=Citirius
+tile.amburius.name=Amburius
+
+//Fluids
+
+--Citirius
+fluid.citirius=Citirius
+fluid.amburius=Amburius
+
+//Items
+
+--Violium
+item.ingot_violium.name=Violium Ingot
+item.nugget_violium.name=Violium Nugget
+
+--Purporium
+item.ingot_purporium.name=Purporium Ingot
+item.nugget_purporium.name=Purporium Nugget
+
+--Citirius
+item.stick_purporium.name=Citirius Stick
+
+--Amburius
+item.stick_violium.name=Amburius Stick
+
+//Armor
+item.helmet_violium.name=Violium Helmet
+item.chestplate_violium.name=Violium Chest
+item.legs_violium.name=Violium Legs
+item.boots_violium.name=Violium Boots
+item.helmet_purporium.name=Purporium Helmet
+item.chestplate_purporium.name=Purporium Chest
+item.legs_purporium.name=Purporium Legs
+item.boots_purporium.name=Purporium Boots
+
+//Tools
+item.axe_violium.name=Violium Axe 
+item.shovel_violium.name=Violium Shovel
+item.pickaxe_violium.name=Violium Pickaxe
+item.sword_violium.name=Violium Sword
+item.hoe_violium.name=Violium Hoe
+item.axe_purporium.name=Purporium Axe 
+item.shovel_purporium.name=Purporium Shovel
+item.pickaxe_purporium.name=Purporium Pickaxe
+item.sword_purporium.name=Purporium Sword
+item.hoe_purporium.name=Purporium Hoe
+
+//Entities
+entity.Clean Iron Golem.name=Clean Iron Golem
