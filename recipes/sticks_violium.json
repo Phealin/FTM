@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "P",
+        "P"
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "ftm:plank",
+            "data": 0
+        }
+    },
+    
+    "result":
+    {
+        "item": "ftm:stick_violium",
+        "count": 4,
+    }
+}

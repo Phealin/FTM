@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "ftm:block_purporium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ftm:ingot_purporium",
+        "count": 9
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I",
+        "S",
+        "S"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "ftm:ingot_purporium"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "shovel_purporium",
+        "count": 1
+    }
+}

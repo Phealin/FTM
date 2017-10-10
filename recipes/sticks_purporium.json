@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "P",
+        "P"
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "ftm:plank",
+            "data": 1
+        }
+    },
+    
+    "result":
+    {
+        "item": "ftm:stick_purporium",
+        "count": 4,
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "XXX",
+        "XXX",
+        "XXX"
+    ],
+    
+    "key":
+    {
+        "X": - Represent the grid letter
+        {
+            "item": "X" - What that item is
+        }
+    },
+    
+    "result":
+    {
+        "item": "X", - Result
+        "count": X - Amount
+    }
+}

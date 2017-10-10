@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "ftm:ingot_violium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ftm:block_violium",
+        "count": 1
+    }
+}

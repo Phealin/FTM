@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "NNN",
+        "NNN",
+        "NNN"
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "ftm:nugget_purporium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ftm:ingot_purporium",
+        "count": 1
+    }
+}

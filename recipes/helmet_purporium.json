@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "ftm:ingot_purporium"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ftm:helmet_purporium",
+        "count": 1
+    }
+}

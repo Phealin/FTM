@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "L",
+        "B"
+    ],
+    
+    "key":
+    {
+        "L":
+        {
+            "item": "ftm:log_purporium"
+        },
+        
+        "B":
+        {
+        	"item": "Minecraft:Bucket" 
+        }
+    },
+    
+    "result":
+    {
+        "item": "ftm:ItemInit.FluidCitirius",
+        "count": 1
+    }
+}
