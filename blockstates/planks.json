@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=violium": { "model": "ftm:planks_violium" },
+        "variant=purporium": { "model": "ftm:planks_purporium" }
+    }
+}

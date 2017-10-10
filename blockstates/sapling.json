@@ -1,0 +1,10 @@
+{
+    "variants": 
+    {
+        "stage=0,variant=violium": { "model": "ftm:sapling_violium" },
+        "stage=1,variant=violium": { "model": "ftm:sapling_violium" },
+        
+        "stage=0,variant=purporium": { "model": "ftm:sapling_purporium" },
+        "stage=1,variant=purporium": { "model": "ftm:sapling_purporium" }
+    }
+}

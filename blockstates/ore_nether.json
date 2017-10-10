@@ -1,0 +1,7 @@
+{
+	"variants":
+	{
+		"variant=purporium":{ "model": "ftm:ore_nether_purporium},
+		"variant=violium":{ "model": "ftm:ore_nether_violium}
+	}
+}

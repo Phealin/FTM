@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "ftm:blocks/log_violium_top",
+        "side": "ftm:blocks/log_violium"
+    }
+}

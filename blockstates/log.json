@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "axis=y,variant=violium":    { "model": "ftm:log_violium" },
+        "axis=z,variant=violium":     { "model": "ftm:log_violium", "x": 90 },
+        "axis=x,variant=violium":     { "model": "ftm:log_violium", "x": 90, "y": 90 },
+        "axis=none,variant=violium":   { "model": "ftm:log_violium" },
+        
+        "axis=y,variant=purporium":    { "model": "ftm:log_purporium" },
+        "axis=z,variant=purporium":     { "model": "ftm:log_purporium", "x": 90 },
+        "axis=x,variant=purporium":     { "model": "ftm:log_purporium", "x": 90, "y": 90 },
+        "axis=none,variant=purporium":   { "model": "ftm:log_purporium" }
+    }
+}
